@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notes shewing how to get the angle of parallax of a comet or other phænomenon at two observations to be taken in any one station or place of the earth and thereby the distance from the earth / by R. Holland.</title>
+            <author>Holland, R. (Richard), 1596-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44164</idno>
+            <idno type="STC">Wing H2433</idno>
+            <idno type="STC">ESTC R27411</idno>
+            <idno type="EEBO-CITATION">09838814</idno>
+            <idno type="OCLC">ocm 09838814</idno>
+            <idno type="VID">44234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44234)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1360:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Notes shewing how to get the angle of parallax of a comet or other phænomenon at two observations to be taken in any one station or place of the earth and thereby the distance from the earth / by R. Holland.</title>
+                  <author>Holland, R. (Richard), 1596-1677.</author>
+               </titleStmt>
+               <extent>[2], 20 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by L. Lichfield for Richard Davis,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: Of the parallax.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Parallax.</term>
+               <term>Astronomy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44234:1"/>
+            <pb facs="tcp:44234:1" rendition="simple:additions"/>
+            <p>NOTES Shewing how to get the Angle OF PARALLAX OF A COMET, Or other PHAENOMENON At Two Obſervations, To be taken in any One Station, or Place of the Earth, and thereby the diſtance from the Earth.</p>
+            <p>By. <hi>R. HOLLAND.</hi>
+            </p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>L. LICHFIELD,</hi> Printer to the Univerſity. for <hi>RICHARD DAVIS,</hi> 1668.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:44234:2" rendition="simple:additions"/>
+            <pb facs="tcp:44234:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>IN this I mean to be as brief as conveniently I may, intending only the prac<g ref="char:EOLhyphen"/>tical part, therefore I ſet not down the Diagrams of Demonſtration, which may be found in Authours, but referre to the places where they may be ſeen by ſuch as think good to look upon them, only in the <hi>13,</hi> and <hi>14</hi> Notes
+<pb facs="tcp:44234:3"/>I have ſet forth ſuch Figures for Demonſtration as are elſ<g ref="char:EOLhyphen"/>where wanting. Moreover I adviſe the Reader to be pre<g ref="char:EOLhyphen"/>pared before hand with Tri<g ref="char:EOLhyphen"/>gonometrie, called alſo the Doctrine of Triangles, for without it nothing can be cal<g ref="char:EOLhyphen"/>culated, which is requiſite in this deſired Art.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:44234:3"/>
+            <head>Of the Parallax</head>
+            <div type="part">
+               <head>Definitions.</head>
+               <p n="1">I. PArallax, that which I intend <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſpeak of, and to find, is only the Angle <hi>a, c, b,</hi> contained between Two Lines, the one <hi>a, c,</hi> drawn from the Center of the Earth, the O<g ref="char:EOLhyphen"/>ther <hi>b, c.</hi> from the Superficies thereof, to the Center of a Comet or other Phaenomenon, as in the Figure follow<g ref="char:EOLhyphen"/>ing.</p>
+               <p>But in an other ſenſe, it is taken for an Arch of the Eight Sphereh, compre<g ref="char:EOLhyphen"/>hended between the Lines <hi>a, c,</hi> and <hi>b, c,</hi> continued forth, and is called the Di<g ref="char:EOLhyphen"/>verſity of Aſpects, ſuch is the Arch <hi>d, e,</hi> in the Figure.</p>
+               <p>Note that the Parallax maketh the Phaenomenon appear lower then indeed it is, and the higher that a Phaenome<g ref="char:EOLhyphen"/>non is from the Horizon, the leſſer is the Parallax thereof, and contra.</p>
+               <pb n="2" facs="tcp:44234:4"/>
+               <figure>
+                  <figDesc>calculation</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <head>Azimuth.</head>
+               <p n="2">II. I need not here define the A<g ref="char:EOLhyphen"/>zimuth to any, who knoweth the uſe of the Globe, yet I will Note how it is accounted in this caſe. Azimuth is an Arch of the Horizon contained be<g ref="char:EOLhyphen"/>tween the North or South points of the Horizon, where the Meridian cutteth it, and a Vertical Circle, which falleth on the Horizon from the Zenith through the Center of any Starr.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:44234:4"/>
+               <head>Altitude.</head>
+               <p n="3">III. The Altitude is the Arch of a Vertical Circle, accounted in the Sphere on the Phaenomenon, contain<g ref="char:EOLhyphen"/>ed between the Viſible Horizon, and the apparen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> place of the Starr, ſuch is the Arch, <hi>b, e,</hi> in the Figure before; But the Parallax or Difference of Aſ<g ref="char:EOLhyphen"/>pect, is the Arch <hi>e, d,</hi> in the Eighth Sphere, and meaſureth the Angle <hi>d, c, e,</hi> and the Vertical thereof, <hi>a, c, b.</hi>
+               </p>
+               <p n="4">IV. The Diſtance from the Ze<g ref="char:EOLhyphen"/>nith is the Complement of the Alti<g ref="char:EOLhyphen"/>tude before mentioned, and is the Arch <hi>c, g.</hi>
+               </p>
+               <figure>
+                  <figDesc>depiction of instrument for calculations</figDesc>
+               </figure>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:44234:6"/>
+               <head>To find the Altitude of the Pole by Obſervation.</head>
+               <p n="6">VI. Becauſe in this caſe the Alti<g ref="char:EOLhyphen"/>tude of the Pole is neceſſary to be known to the neareſt, and that I ſup<g ref="char:EOLhyphen"/>poſe it cannot be found near enough by help of the Sun's Meridian Altitude, and Tables of his Declination, there<g ref="char:EOLhyphen"/>fore I thought meet to ſhew how it may be done to the neareſt at the place where the Inſtrument is to be placed, thus; Take two Meridian Altitudes (<hi>viz.</hi> the higheſt and the loweſt) of ſome one of the Northern Stars, which ſetteth not, neither riſeth to the Zenith (ſuch may be ſome in the Tail of the <hi>Great Bear,</hi> or one of the Stars in <hi>Caſ<g ref="char:EOLhyphen"/>ſiopea,</hi> for theſe may be obſerved in <hi>December,</hi> near ſix in the Morning; and ſix at Night) Subtract the loweſt Altitude from the higheſt, and take half the difference, and adde it to the loweſt Altitude to give the height of the Pole.</p>
+               <pb n="7" facs="tcp:44234:6"/>
+               <p>But in takeing the Altitude of any fixed Starr that is leſs then 20 <hi>gs.</hi> high, take the Refraction from the Altitude obſerved, to leave the true height, for the Refraction maketh the Starr to ſeem higher then indeed it is, as in <hi>Ticho Brahe</hi>'s Table of the Refraction of fix<g ref="char:EOLhyphen"/>ed Starrs here following.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Alt.</cell>
+                        <cell role="label" cols="2">Refr.</cell>
+                        <cell role="label">Alt.</cell>
+                        <cell role="label" cols="2">Refr.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>′</cell>
+                        <cell>″</cell>
+                        <cell rows="2" cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>0</cell>
+                        <cell>30.</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>21.</cell>
+                        <cell>30</cell>
+                        <cell>11</cell>
+                        <cell>5.</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>15.</cell>
+                        <cell>30</cell>
+                        <cell>12</cell>
+                        <cell>4.</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>12.</cell>
+                        <cell>30</cell>
+                        <cell>13</cell>
+                        <cell>4.</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>11.</cell>
+                        <cell>00</cell>
+                        <cell>14</cell>
+                        <cell>3.</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>10.</cell>
+                        <cell>00</cell>
+                        <cell>15</cell>
+                        <cell>3.</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>9.</cell>
+                        <cell>00</cell>
+                        <cell>16</cell>
+                        <cell>2.</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>8.</cell>
+                        <cell>15</cell>
+                        <cell>17</cell>
+                        <cell>2.</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>6.</cell>
+                        <cell>45</cell>
+                        <cell>18</cell>
+                        <cell>1.</cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>6.</cell>
+                        <cell>00</cell>
+                        <cell>19</cell>
+                        <cell>0.</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>5.</cell>
+                        <cell>30</cell>
+                        <cell>20</cell>
+                        <cell>0.</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Proportion between the Two Arches of <hi>Parallax.</hi>
+               </head>
+               <p n="7">VII. Seeing that in taking Pa<g ref="char:EOLhyphen"/>rallax there is alwaies two obſervations to be made, and the ſumme or differ<g ref="char:EOLhyphen"/>rence
+<pb n="8" facs="tcp:44234:7"/>of the Two Parallaxes is expected thereby, it is therefore neceſſary, whe<g ref="char:EOLhyphen"/>ther I have their ſumme or difference, to know what is the Proportion be<g ref="char:EOLhyphen"/>tween them, that thereby they may be found ſeverally; Concerning this, read Dr. <hi>John Dee</hi>'s Third Theorem of his <hi>Parallaticus Nucleus</hi> which is.</p>
+               <p>In whatſoever two divers Parallaxes of the ſame Starr, or the like Phaeno<g ref="char:EOLhyphen"/>menon (ſo that in the mean time it be conceived to be carried only with the Diurnal motion of the whole) there will be the ſame reaſon, or proportion of the right ſine of the greater Paral<g ref="char:EOLhyphen"/>lax, to the right ſine of the leſſer, that is, diſtance from the Vertex, to the right ſine of the leſſer apparent diſtance, from the Vertex.</p>
+               <p>This is as plainly demonſtrated by the Authour, as it is ſpoken.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:44234:7"/>
+               <head>To Separate the Arches of Parallax, when the ſumme of them is given.</head>
+               <p n="8">VIII. If the ſumme of Two Ar<g ref="char:EOLhyphen"/>ches of Parallax be given in one Arch, then they may be ſeparated, by help of the Sixt Propoſition of <hi>Clavius'</hi>s <hi>Tri<g ref="char:EOLhyphen"/>angula Rectilinea,</hi> thus; Take the na<g ref="char:EOLhyphen"/>tural ſines of the two diſtances of the Starr from the Zenith (for they are in the ſame Proportion with the ſines of the Two Parallaxes, as in the laſt Note) Adde theſe two ſines together, and take half their ſumme; Alſo take the fine of the leſſer diſtance from the Ze<g ref="char:EOLhyphen"/>nith, from the ſaid half ſumme to have their difference, and then the proporti<g ref="char:EOLhyphen"/>on is,</p>
+               <p>
+                  <hi>As the ſaid half ſumme of the ſines of the diſtance from the Zenith, Is to the Tangent of the half ſumme of Parallax So is the difference aforeſaid To the Tangent of another Arch.</hi>
+               </p>
+               <pb n="10" facs="tcp:44234:8"/>
+               <p>Which Arch being added to the half ſumme of the Parallaxes, giveth the greater Parallax, and being ſubtracted from the half ſumme of the Parallaxes, leaveth the leſſer Parallax.</p>
+            </div>
+            <div type="part">
+               <head>But if the Difference of Two Parallaxes be given.</head>
+               <p n="9">IX. Then ſeeing the ſines of the Diſtances from the Zenith of the Start, is the termes of Proportion between the two unknown Parallaxes thereof, as by he 7th. Note, thereforee take the natural ſines of the ſaid diſtances, and ſubtract the leſſer ſine from the great<g ref="char:EOLhyphen"/>er, and take half the difference for the Firſt in the Rule of Three; alſo adde the ſame half difference to the leſſer ſine of diſtance from the Zenith, for the Third in the Rule of Three, and then the Proportion is,</p>
+               <p>
+                  <hi>As the half difference of the Two ſines from the Zenith, To the Tangent of the half difference of the Parallaxes, So is the Aggregate of the half differ<g ref="char:EOLhyphen"/>rence
+<pb n="11" facs="tcp:44234:8"/>of the ſines aforeſaid, and the leſſer ſine of distance from the Zenith, To the Tangent of an other Arch.</hi>
+               </p>
+               <p>To which Arch adde half the differ<g ref="char:EOLhyphen"/>ence of Parallaxes, it giveth the great<g ref="char:EOLhyphen"/>er Arch of Parallax; But the half dif<g ref="char:EOLhyphen"/>ference of Parallax ſubtracted from the ſame Arch leaveth the leſſer Arch of Parallax. See <hi>Clavius</hi>'s 7th. Prop. of his <hi>Triangula Rectilinea.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Situation of a Comet.</head>
+               <p n="10">X. Concerning the Situation of a Comet, it may be ſo near the Pole, that it ſhall not ſet at the North, nor riſe ſo high as the Zenith; In this caſe to get the ſumme of the Parallaxes, ſubtract the leſſer Meridional diſtance from the Pole (which is alwaies that which is at his greateſt Altitude) from the great<g ref="char:EOLhyphen"/>eſt Meridional diſtance from the Pole (to be found at his leſſer Altitude) and the remaine is the ſumme of the Paral<g ref="char:EOLhyphen"/>laxes. See the Demonſtration hereof, in the Tenth Problem of Mr. <hi>Thomas Diggs</hi> his <hi>Ala, ſen Scala Mathematica.</hi>
+               </p>
+               <pb n="12" facs="tcp:44234:9"/>
+               <p>Now having the ſumme of the Parallaxes, they may be ſeparated and known by the 8th. Note before.</p>
+               <p n="11">XI. But if the Phaenomenon riſe to the Zenith, then the Complement of the Latitude taken from the Meri<g ref="char:EOLhyphen"/>dional diſtance of the ſame, from or be<g ref="char:EOLhyphen"/>low the Pole, is the Parallax. But if the Phaenomenon doe not ſet at the North, and yet cometh up beyond the Zenith toward the South, then the difference of the ſeveral Meridional diſtances from the Pole, is the difference of Parallaxes. Corollarie the Second of the ſame Tenth Problem of Mr. <hi>Tho. Diggs,</hi> his <hi>Ala, &amp;c.</hi> And then the ſeveral Parallaxes may be found by the 9th. Note before going.</p>
+               <figure>
+                  <figDesc>calculation</figDesc>
+               </figure>
+               <p>
+                  <hi>As the Coſine of the Angle</hi> d, a, b, <hi>To Radius, So the Tangent of Latitude, Compt. of</hi> a, b, <hi>To the Tangent of the ſide</hi> a, d.</p>
+               <p>And for as much as, Mr. <hi>Thomas Diggs,</hi> in the Eleaventh Problem of his <hi>Ala, &amp;c.</hi> ſheweth that the Arches <hi>e, h,</hi> and <hi>s, f,</hi> are equal, and that the Arch <hi>h, d,</hi> is equal to the Arch <hi>d, s,</hi> Therefore the practice is this, Take <hi>a, h,</hi> the diſtance from the Zenith at the higheſt Obſervation, from <hi>a, d,</hi> the ſide of the Triangle found, then <hi>h, d,</hi> = to <hi>d, s,</hi> added to <hi>c, g,</hi> the loweſt Alti<g ref="char:EOLhyphen"/>tude, and the ſumme ſubtracted from <hi>d, c,</hi> the Complement of the ſide <hi>a, d,</hi> leaveth <hi>s, g,</hi> the ſumme or Aggregate of the Two Parallaxes. And theſe may be ſeparated by the Eighth Note.</p>
+               <pb n="13" facs="tcp:44234:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:44234:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:44234:11"/>
+               <head>If the Comet doth Riſe and Set.</head>
+               <figure>
+                  <figDesc>calculation</figDesc>
+               </figure>
+               <p>
+                  <hi>As Radius, To the ſine of Latitude, being Comple<g ref="char:EOLhyphen"/>ment of</hi> z, P, <hi>So Coſine of</hi> P, i, <hi>To Coſine of</hi> z, i.</p>
+               <p>Thus having found the difference of Parallax <hi>i, o,</hi> the Parallaxes <hi>d, c,</hi> and <hi>r, o,</hi> may be ſeverally found as in the Ninth Note.</p>
+            </div>
+            <div type="part">
+               <head>If the Comet be under, or be<g ref="char:EOLhyphen"/>low the Equinoctial.</head>
+               <pb n="18" facs="tcp:44234:14"/>
+               <figure>
+                  <figDesc>calculation</figDesc>
+               </figure>
+               <p>
+                  <hi>As Radius, To the Coſine of the Angle P, z, h, the <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h, So the Tangent of the hypotenuſal z, P, the Tangent of the ſide z, h,</hi>
+               </p>
+               <p>Which being had, get alſo the ſide <hi>g, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> the Triangle <hi>g, h, P,</hi> the Propor. is,</p>
+               <p>
+                  <hi>As the Coſine of</hi> z, P, <hi>To the Coſine of</hi> g, P, <hi>So the Coſine of</hi> z, h, <hi>To the Coſine of</hi> g, h.</p>
+               <p>Which Two Arches <hi>g, h,</hi> and <hi>h, z,</hi> be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g added together, and taken from a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>micircle, leaveth the Arch <hi>z, i,</hi> which <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be leſſer then the Arch <hi>z, o,</hi> then is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, the difference of Parallaxes, &amp; then <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the 9th. each may be found.</p>
+               <p n="15">XV. This being underſtood, the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gle of Parallax may be found, at any
+<pb n="20" facs="tcp:44234:16"/>one place of the Earth, and in any ſitu<g ref="char:EOLhyphen"/>ation of the Comet; And the deſired diſtances from the Earth may be calcu<g ref="char:EOLhyphen"/>lated, as in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Triangle <hi>a, b, c,</hi> in the firſt Figure; wherein adde 90 <hi>gs</hi> to the Angle of Altitude above the Horizon, to give the Angle <hi>a, b, c,</hi> at the Eie, to this adde the Angle of Parallax <hi>a, c, b,</hi> and ſubtract the aggregtae from 180 <hi>gs,</hi> it leaveth the Angle <hi>b, a, c,</hi> at the Cen<g ref="char:EOLhyphen"/>ter of the Earth. And then the propor<g ref="char:EOLhyphen"/>tionis alwaies.</p>
+               <p>For the diſtance from the Eie, <hi>As the ſine of the Angle of Parallax a, c, b, To one Semidiameter a, b, So is the ſine of the Angle at the Co<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r b, a, c, To the diſtance</hi> b, c, <hi>in Semidiamiters of the Earth.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For the diſtance from the Cen<g ref="char:EOLhyphen"/>ter of the Earth.</head>
+               <p>
+                  <hi>As the ſine of the Angle of Parallax a, c, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> To one Semidiameter a, b, So is the ſine of the Angle a, b, c, To the diſtance a, c, in Semidiameters of the Earth.</hi>
+               </p>
+               <p>Theſe Semidiameters of diſtance, ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be turned into Miles if you multipl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them by 34364/11.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
